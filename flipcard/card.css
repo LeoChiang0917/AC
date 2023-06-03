@@ -1,13 +1,13 @@
 #cards{
  display: flex;
  flex-wrap: wrap;
- width: 85%; /* 新增：寬度和標頭一致 */
+ width: 86%; /* 新增：寬度和標頭一致 */
  margin: 0 auto;  /* 新增：置中 */   
 }
 
 .card{
     /* 卡片容器裡的排版 */
-flex: 7% 1 1;
+flex: 8% 1 1;
 height: 8vw;
 border: 2px solid #e0e0e0;
     /* 卡片容器外的排版 */
@@ -17,7 +17,7 @@ justify-content: space-around;
 }
 
 .card img{
-max-width: 30%;
+max-width: 31%;
 align-self: center;
 }
 
