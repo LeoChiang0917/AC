@@ -1,7 +1,7 @@
 #cards{
  display: flex;
  flex-wrap: wrap;
- width: 86%; /* 新增：寬度和標頭一致 */
+ width: 85%; /* 新增：寬度和標頭一致 */
  margin: 0 auto;  /* 新增：置中 */   
 }
 
